@@ -58,5 +58,3 @@ Each project is deployed separately by selecting its root directory inside the r
 
 **Sajidur Rahman Sajid**  
 BSS Trainee Software Engineer (Internship)
-
----
